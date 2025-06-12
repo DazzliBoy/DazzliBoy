@@ -52,7 +52,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-dazzli.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/99183a28b"><img src="https://img.shields.io/badge/-Sebastian%20Ramos-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:u202222846@upc.edu.pe"><img src="https://img.shields.io/badge/-u202222846@upc.edu.pe-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/dazzli.01"><img src="https://img.shields.io/badge/-dazzli.01-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
